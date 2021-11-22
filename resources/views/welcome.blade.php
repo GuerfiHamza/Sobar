@@ -105,7 +105,7 @@
             </nav>
         </div>
     </section>
-    <section id="about" class="relative py-20">
+    <section id="apropos" class="relative py-20">
         <div class="container px-4 mx-auto">
             <div class="relative flex flex-wrap items-center -mx-4">
                 <div class="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
