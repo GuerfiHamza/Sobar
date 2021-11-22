@@ -401,7 +401,7 @@
             <div class="flex flex-wrap justify-between items-center -mx-4">
                 <div class="w-full lg:w-2/6 px-4">
                     <a class="inline-block mb-6 text-gray-900 text-lg font-semibold" href="#accueil">
-                        <img class="h-7" src="img/logo.png" alt="">
+                        <img class="h-12" src="img/logo.png" alt="">
                     </a>
                     <p class="hidden lg:block text-sm text-gray-500">Tous droits réservés © Sarl Sobar 2021</p>
                 </div>
@@ -409,7 +409,7 @@
                     <div class="flex flex-wrap items-center justify-end">
                         <ul class="w-full lg:w-auto inline-flex flex-wrap mb-4 lg:mb-0 md:mr-6 lg:mr-12">
                             <li class="mr-12 mb-2 md:mb-0"><a class="text-sm font-medium" href="#accueil">Accueil</a></li>
-                            <li class="mr-12 mb-2 md:mb-0"><a class="text-sm font-medium" href="#apropos">A propose</a></li>
+                            <li class="mr-12 mb-2 md:mb-0"><a class="text-sm font-medium" href="#apropos">A propos</a></li>
                             <li class="mr-12 mb-2 md:mb-0"><a class="text-sm font-medium" href="#portfolio">Portfolio</a></li>
                         </ul>
                         <a class="inline-block mr-auto lg:mr-0 py-4 px-8 text-sm font-medium leafing-normal text-black hover:text-white bg-sobar-light  hover:bg-sobar-dark  rounded"
