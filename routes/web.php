@@ -13,9 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+Route::get('/', [App\Http\Controllers\LandingController::class, 'index'])->name('index');
+Route::post('/mail', [App\Http\Controllers\LandingController::class, 'mailContactForm'])->name('mailContactForm');
+Route::get('/reload-captcha', [App\Http\Controllers\LandingController::class, 'reloadCaptcha'])->name('reloadCaptcha');
 
 
 Route::group(['prefix' => 'admin'], function () {

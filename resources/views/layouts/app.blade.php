@@ -1,18 +1,43 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Sobar - @yield('title')</title>
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-        <link rel="icon" type="image/png" href="../img/favicon.png"/>
 
-    </head>
-    <body class="antialiased">
-        @yield('content')
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sobar - @yield('title')</title>
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="icon" type="image/png" href="../img/favicon.png" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-213778405-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-        <script src="{{ asset('js/app.js') }}"></script>
-        @yield('scripts')
-    </body>
-    </html>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
+        gtag('config', 'UA-213778405-1');
+    </script>
+</head>
+
+<body class="antialiased">
+    @yield('content')
+
+    <script src="{{ asset('js/app.js') }}"></script>
+    @yield('scripts')
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $('#reload').click(function() {
+            $.ajax({
+                type: 'GET',
+                url: 'reload-captcha',
+                success: function(data) {
+                    $(".captcha span").html(data.captcha);
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
