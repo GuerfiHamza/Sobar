@@ -178,7 +178,7 @@
                                 class="px-4 lg:px-8 py-4 pb-4 text-sm font-semibold text-gray-500 hover:text-gray-900"><a>
                                     Chargement </a></button> </li>
                         <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }"> <button
-                                :class="openTab === 3 ? activeClasses : inactiveClasses"
+                                :class="openTab === 4 ? activeClasses : inactiveClasses"
                                 class="px-4 lg:px-8 py-4 pb-4 text-sm font-semibold text-gray-500 hover:text-gray-900"><a>
                                     Exposition </a></button> </li>
 
@@ -272,7 +272,7 @@
                     <div class="flex flex-wrap mb-6 lg:mb-14 -mx-3">
                         <div class="flex flex-wrap w-full md:w-1/2 lg:h-screen">
                             <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
-                                <img class="w-full h-full object-cover rounded-lg object-top" src="/img/fourth/1.jpg"
+                                <img class="w-full h-full object-cover rounded-lg object-center" src="/img/fourth/1.jpg"
                                     alt="">
                             </div>
                             <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
