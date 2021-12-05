@@ -144,6 +144,9 @@
                     <br>
                     <span class="font-semibold"> RESSOURCES FINALES APRES EXTINCTION DES RESERVES A CIEL OUVERT: </span>310
                     000 TONNES
+
+                    <span class="font-bold"> PHASE II : EXPLOITATION DES RESERVES SOUTERRAINES
+                    </span>
                 </p>
             </div>
         </div>
@@ -156,10 +159,10 @@
                 <h2 class="mt-8 text-4xl font-semibold">PHOTOS</h2>
             </div>
             <div x-data="{
-                        openTab: 1,
-                        activeClasses: 'border-b-2 border-sobar-dark text-gray-900',
-                        inactiveClasses: ''
-                      }">
+                                openTab: 1,
+                                activeClasses: 'border-b-2 border-sobar-dark text-gray-900',
+                                inactiveClasses: ''
+                              }">
                 <div class="mb-12 lg:mb-16 lg:text-center max-w-max mx-auto lg:border-b">
                     <ul class="flex">
                         <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }"> <button
@@ -174,6 +177,10 @@
                                 :class="openTab === 3 ? activeClasses : inactiveClasses"
                                 class="px-4 lg:px-8 py-4 pb-4 text-sm font-semibold text-gray-500 hover:text-gray-900"><a>
                                     Chargement </a></button> </li>
+                        <li @click="openTab = 4" :class="{ '-mb-px': openTab === 4 }"> <button
+                                :class="openTab === 3 ? activeClasses : inactiveClasses"
+                                class="px-4 lg:px-8 py-4 pb-4 text-sm font-semibold text-gray-500 hover:text-gray-900"><a>
+                                    Exposition </a></button> </li>
 
                     </ul>
                 </div>
@@ -261,7 +268,34 @@
                     </div>
 
                 </div>
+                <div x-show="openTab === 4">
+                    <div class="flex flex-wrap mb-6 lg:mb-14 -mx-3">
+                        <div class="flex flex-wrap w-full md:w-1/2 lg:h-screen">
+                            <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
+                                <img class="w-full h-full object-cover rounded-lg object-top" src="/img/fourth/1.jpg"
+                                    alt="">
+                            </div>
+                            <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
+                                <img class="w-full h-full object-cover rounded-lg" src="/img/fourth/2.jpg" alt="">
+                            </div>
+                            <div class="w-full h-64 lg:h-2/3 p-3">
+                                <img class="w-full h-full object-cover rounded-lg" src="/img/fourth/3.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap w-full md:w-1/2 lg:h-screen">
+                            <div class="w-full h-64 lg:h-2/3 p-3">
+                                <img class="w-full h-full object-cover rounded-lg" src="/img/fourth/4.jpg" alt="">
+                            </div>
+                            <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
+                                <img class="w-full h-full object-cover rounded-lg" src="/img/fourth/5.jpg" alt="">
+                            </div>
+                            <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
+                                <img class="w-full h-full object-cover bg-bottom rounded-lg" src="/img/fourth/6.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
 
+                </div>
             </div>
         </div>
 
