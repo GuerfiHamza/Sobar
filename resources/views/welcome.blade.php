@@ -106,50 +106,209 @@
             </nav>
         </div>
     </section>
-    <section class="py-16" id="apropos">
-        <div class="container px-4 mx-auto">
-            <div class="max-w-3xl mx-auto text-center">
-                <h2 class="my-3 text-4xl font-bold font-heading mb-8">FICHE TECHNIQUE DU PROJET</h2>
-                <p class=" leading-relaxed "> <span class="font-bold"> PHASE I : EXPLOITATION DES RESERVES A CIEL
-                        OUVERT</span>
-                    <br>
-                    <span class="font-semibold"> RESSOURCES GLOBALES AU DEPART :</span> 520 000 TONNES
-                    <br>
-                    <span class="font-semibold"> RESERVES EXPLOITABLES A CIEL OUVERT :</span> 210 000 TONNES
-                    <br>
-                    <span class="font-semibold"> ENTREE EN PRODUCTION :</span> 2011
-                    <br>
-                    <span class="font-semibold"> SUBSTANCE :</span> BARYTINE EN ROCHE DENSITE 4.1 GRANULOMETRIE 0-150 MM
-                    <br>
-                    <span class="font-semibold"> CAPACITE DE PRODUCTION :</span> 22 000 TONNES/AN A PARTIR DE 2020
-                    <br>
-                    <span class="font-semibold"> MOYENS MATERIELS UTILSES :</span>
-                    02 BULLDOZERS /
-                    04 PELLETEUSES EQUIPES DE MARTEAU BRISE ROCHE GAMME MOYENNE ET LOURDE /
-                    01 CHARGEUR SUR CHENILLES /
-                    01 CHAREUR S/PNEUS
-                    <br>
-                    <span class="font-semibold"> EXPEDITION :</span> PAR LOTS DE 1000 TONNES
-                    <br>
-                    FLOTTE DE 12 CAMIONS A BENNE DE GROS TONNAGE
-                    <br>
-                    <span class="font-semibold"> UTILISATION :</span> APRES BROYAGE - ADDITIF ALOURDISSANT DE LA BOUE DE
-                    FORAGE- SECTEUR PETROLIER
-                    <br>
-                    <span class="font-semibold"> EMPLOIS CREES :</span> 30
-                    <br>
-                    <span class="font-semibold"> RESERVES RESIDUELLES A FIN NOVEMBRE 2021:</span> 65 500 TONNES
-                    <br>
-                    <span class="font-semibold"> EXTINCTION PREVISIONNELLE DES RESERVES A CIEL OUVERT :</span> 12/2025
-                    <br>
-                    <span class="font-semibold"> RESSOURCES FINALES APRES EXTINCTION DES RESERVES A CIEL OUVERT: </span>310
-                    000 TONNES
 
-                    <span class="font-bold"> PHASE II : EXPLOITATION DES RESERVES SOUTERRAINES
-                    </span>
-                </p>
+    <section class="font-normal  text-white py-8 2xl:pt-20 2xl:pb-5">
+        <div class="container px-4 mx-auto">
+            <div class="mb-28">
+
+                <h2 class="font-heading font-medium text-center uppercase text-7xl text-black md:text-7xl xl:text-7xl leading-tight">Fiche téchnique de la baryte de forage</h2>
             </div>
+            <div class="flex flex-wrap overflow-hidden xl:-mx-3">
+
+            <div class="w-full overflow-hidden sm:w-1/2 md:w-1/2 lg:w-1/2 xl:my-3 xl:px-3 xl:w-1/2">
+                <div class="overflow-x-auto text-center ">
+                    <div class="inline-block rounded-5xl overflow-hidden border border-gray-100 ">
+                        <table class="table-auto w-full mx-auto ">
+                            <thead>
+                                <tr class="border-b border-gray-100 text-body text-black">
+                                    <th
+                                        class="min-w-max pr-24 h-20 flex items-center text-left pl-8 lg:pl-16 bg-gray-50 text-lg font-semibold uppercase">
+
+                                        <span>PROPERTY</span>
+                                    </th>
+                                    <th class="h-20 bg-gray-50 text-lg font-semibold uppercase pr-5">SPECIFICATIONS</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-black">
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center pt-5">
+
+                                            <span>Specific Gravity, g/cm3  </span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        <p class="pt-5">4,10 min</p>
+                                    </td>
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Water soluble alkaline earth metals (as calcium)</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">180 ppm</td>
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Mercury (Hg)</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">0,6 ppm</td>
+
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Cadmium (Cd)</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        1,5 ppm
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Extractible Carbonates- wet measurement</span>
+                                        </div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        2,3 mg/l
+                                    </td>
+
+
+                                </tr>
+                                <tr>
+                                    <td class="pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Moisture </span>
+                                        </div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        1%
+                                    </td>
+
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-full overflow-hidden sm:w-1/2 md:w-1/2 lg:w-1/2 xl:my-3 xl:px-3 xl:w-1/2">
+                <div class="overflow-x-auto text-center">
+                    <div class="inline-block max-w-5xl rounded-5xl overflow-hidden border border-gray-100">
+                        <table class="table-auto w-full mx-auto ">
+                            <thead>
+                                <tr class="border-b border-gray-100 text-body text-black">
+                                    <th
+                                        class="min-w-max pr-24 h-20 flex items-center text-left pl-8 lg:pl-16 bg-gray-50 text-lg font-semibold uppercase">
+
+                                        <span>Chimical composition</span>
+                                    </th>
+                                    <th class="h-20 bg-gray-50 text-lg font-semibold uppercase pr-5">% weight</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-black">
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center pt-5">
+
+                                            <span>BaSO4</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        <p class="pt-5"> 90,92</p>
+                                    </td>
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Sr SO4</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">2,39</td>
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Si O2</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">1.54</td>
+
+
+                                </tr>
+                                <tr class="border-b border-gray-100 border-opacity-10">
+                                    <td class="relative pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Fe2 O3</span>
+                                        </div>
+                                        <div class="absolute -bottom-px left-0 w-10 h-px "></div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        1,01
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="pl-8 lg:pl-16 font-medium text-lg h-24">
+                                        <div class="flex items-center">
+
+                                            <span>Ca F2</span>
+                                        </div>
+                                    </td>
+                                    <td class="text-center px-5 py-5 text-lg text-black h-24">
+                                        0.14
+                                    </td>
+
+
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+            <p class="text-black container-fluid mx-auto">
+                <span class="font-bold"> Product Description</span><br>
+
+                Grey barite with specific gravity
+                > 4,10 g/cm3 and low trace elements, particularly for Hg and Cd, to meet API specifications for Oil Drilling Grade
+
+               <br> <span class="font-bold">Product Form</span> <br>
+
+                Bulk- Lump size, 0-150 mm (95%)
+
+            </p>
+          </div>
+
         </div>
+
     </section>
 
     <section id="portfolio" class="relative py-10">
@@ -159,10 +318,10 @@
                 <h2 class="mt-8 text-4xl font-semibold">PHOTOS</h2>
             </div>
             <div x-data="{
-                                openTab: 1,
-                                activeClasses: 'border-b-2 border-sobar-dark text-gray-900',
-                                inactiveClasses: ''
-                              }">
+                                    openTab: 1,
+                                    activeClasses: 'border-b-2 border-sobar-dark text-gray-900',
+                                    inactiveClasses: ''
+                                  }">
                 <div class="mb-12 lg:mb-16 lg:text-center max-w-max mx-auto lg:border-b">
                     <ul class="flex">
                         <li @click="openTab = 1" :class="{ '-mb-px': openTab === 1 }"> <button
@@ -188,7 +347,8 @@
                     <div class="flex flex-wrap mb-6 lg:mb-14 -mx-3">
                         <div class="flex flex-wrap w-full md:w-1/2 lg:h-screen">
                             <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
-                                <img class="w-full h-full object-cover rounded-lg object-top" src="/img/first/1.jpg" alt="">
+                                <img class="w-full h-full object-cover rounded-lg object-top" src="/img/first/1.jpg"
+                                    alt="">
                             </div>
                             <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
                                 <img class="w-full h-full object-cover rounded-lg" src="/img/first/2.jpg" alt="">
@@ -290,7 +450,8 @@
                                 <img class="w-full h-full object-cover rounded-lg" src="/img/fourth/5.jpg" alt="">
                             </div>
                             <div class="w-full lg:w-1/2 h-64 lg:h-1/3 p-3">
-                                <img class="w-full h-full object-cover bg-bottom rounded-lg" src="/img/fourth/6.jpg" alt="">
+                                <img class="w-full h-full object-cover bg-bottom rounded-lg" src="/img/fourth/6.jpg"
+                                    alt="">
                             </div>
                         </div>
                     </div>
@@ -346,68 +507,75 @@
                 </div>
             </div>
         </div>
+        <div>
+            <div class="container px-4 mx-auto">
 
-        <div class="container px-4 mx-auto">
-            <div class="max-w-3xl -mt-64 lg:-mt-32 mx-auto p-6 lg:py-10 lg:px-20 bg-white rounded-xl text-center">
-                <h2 class="mt-8 mb-14 text-4xl font-semibold font-heading">Contactez-Nous
-                </h2>
-                @if ($errors->any())
-                    <div class="alert alert-danger">
-                        <ul>
-                            @foreach ($errors->all() as $error)
-                                <li>{{ $error }}</li>
-                            @endforeach
-                        </ul>
-                    </div>
-                    <br />
-                @endif
-                <form action="{{ route('mailContactForm') }}" method="post">
-                    @csrf
-                    <div class="relative flex flex-wrap mb-6">
-                        <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="name"
-                            type="text" placeholder="Nom & Prénom">
-                        <span
-                            class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Nom</span>
-                    </div>
-                    <div class="relative flex flex-wrap mb-6">
-                        <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="email"
-                            type="email" placeholder="e.g example@sobar.dz">
-                        <span
-                            class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">E-mail</span>
-                    </div>
-                    <div class="relative flex flex-wrap mb-6">
-                        <textarea class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded resize-none"
-                            name="message" id="1" type="message" cols="30" rows="10" placeholder="Message..."></textarea>
-                        <span
-                            class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Votre
-                            message</span>
-                    </div>
-
-                    <div class="relative flex flex-wrap mb-6">
-                        <div class="captcha">
-                            <span>{!! captcha_img() !!}</span>
-
+                <div class="max-w-3xl -mt-64 lg:-mt-32 mx-auto p-6 lg:py-10 lg:px-20 bg-white rounded-xl text-center">
+                    <h2 class="mt-8 mb-14 text-4xl font-semibold font-heading">Contactez-Nous
+                    </h2>
+                    @if ($errors->any())
+                        <div class="alert alert-danger">
+                            <ul>
+                                @foreach ($errors->all() as $error)
+                                    <li>{{ $error }}</li>
+                                @endforeach
+                            </ul>
                         </div>
-                        <div style="margin-left: 10px">
-                            <button type="button" id="reload">
-                                ↻
-                            </button>
+                        <br />
+                    @endif
+                    <form action="{{ route('mailContactForm') }}" method="post">
+                        @csrf
+                        <div class="relative flex flex-wrap mb-6">
+                            <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="name"
+                                type="text" placeholder="Nom & Prénom">
+                            <span
+                                class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Nom</span>
                         </div>
-                    </div>
-                    <div class="relative flex flex-wrap mb-6">
-                        <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="captcha"
-                            id="captcha" type="text" placeholder="Captcha">
-                        <span
-                            class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Captcha</span>
-                    </div>
+                        <div class="relative flex flex-wrap mb-6">
+                            <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="email"
+                                type="email" placeholder="e.g example@sobar.dz">
+                            <span
+                                class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">E-mail</span>
+                        </div>
+                        <div class="relative flex flex-wrap mb-6">
+                            <textarea class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded resize-none"
+                                name="message" id="1" type="message" cols="30" rows="10"
+                                placeholder="Message..."></textarea>
+                            <span
+                                class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Votre
+                                message</span>
+                        </div>
+
+                        <div class="relative flex flex-wrap mb-6">
+                            <div class="captcha">
+                                <span>{!! captcha_img() !!}</span>
+
+                            </div>
+                            <div style="margin-left: 10px">
+                                <button type="button" id="reload">
+                                    ↻
+                                </button>
+                            </div>
+                        </div>
+                        <div class="relative flex flex-wrap mb-6">
+                            <input class="relative mb-2 md:mb-0 w-full py-4 pl-4 text-sm border rounded" name="captcha"
+                                id="captcha" type="text" placeholder="Captcha">
+                            <span
+                                class="absolute top-0 left-0 ml-4 -mt-2 px-1 inline-block bg-white text-gray-500 text-xs">Captcha</span>
+                        </div>
 
 
-                    <button
-                        class="w-full inline-block px-6 py-4 text-sm text-black hover:text-white bg-sobar-light  hover:bg-sobar-dark rounded transition duration-200"
-                        type="submit">Envoyer</button>
-                </form>
+                        <button
+                            class="w-full inline-block px-6 py-4 text-sm text-black hover:text-white bg-sobar-light  hover:bg-sobar-dark rounded transition duration-200"
+                            type="submit">Envoyer</button>
+                    </form>
+                </div>
+                <a href="https://www.google.com/maps/place/36%C2%B028'36.9%22N+2%C2%B004'54.3%22E/@36.4794247,2.0785618,13.75z/data=!4m6!3m5!1s0!7e2!8m2!3d36.4769278!4d2.0817617"
+                    target="_blank">
+                    <img src="/img/map.png" alt="" class="mx-auto"></a>
+
             </div>
-        </div>
+
     </section>
 
     <section class="py-10">
