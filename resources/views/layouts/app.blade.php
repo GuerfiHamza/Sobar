@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sarl Sobar - @yield('title')</title>
+    <title>Sarl Sobar - Exploitation de la Barytine de Farès</title>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="icon" type="image/png" href="../img/favicon.png" />
     <meta name="keywords" content="Barytine, Forage, Sarl Sobar, exploitation, Barytine de Farès, Exploitation mécanisée, gisement filonien de Barytine, Exploitation mécanisée du gisement filonien de Barytine à ciel ouvert" />
