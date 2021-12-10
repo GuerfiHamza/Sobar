@@ -32,10 +32,10 @@
                         <div class="w-full lg:w-1/2 px-4 mb-12 md:mb-20 lg:mb-0 flex items-center">
                             <div class="w-full text-center lg:text-left">
                                 <div class="max-w-md mx-auto lg:mx-0">
-                                    <h2 class="mb-3 text-4xl lg:text-5xl font-bold font-heading">
+                                    <h1 class="mb-3 text-4xl lg:text-5xl font-bold font-heading">
                                         <span>Société d’exploitation de la <span class="text-sobar-dark">Barytine</span>
                                             de Farès</span>
-                                    </h2>
+                                    </h1>
                                 </div>
                                 <div class="max-w-sm mx-auto lg:mx-0">
                                     <p class="mb-6 text-gray-400 leading-loose">Exploitation mécanisée du gisement filonien
