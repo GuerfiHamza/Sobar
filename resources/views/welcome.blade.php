@@ -24,9 +24,9 @@
                     class="inline-block py-4 px-8 text-sm leading-normal font-medium bg-sobar-light hover:bg-sobar hover:text-white text-black rounded transition duration-200"
                     href="#contact">Contact</a></div>
         </nav>
-        <section class="relative overflow-hidden"><img class="hidden lg:block absolute inset-0 w-full"
+        <section class="relative overflow-hidden"><img class="hidden lg:block absolute inset-0 z-0 w-full"
                 src="atis-assets/background/lines.svg" alt="">
-            <div class="relative pt-12 lg:pt-20 pb-12 md:pb-24">
+            <div class="relative pt-12 lg:pt-20 pb-12 md:pb-24 z-10">
                 <div class="container mx-auto px-4">
                     <div class="flex flex-wrap -mx-4">
                         <div class="w-full lg:w-1/2 px-4 mb-12 md:mb-20 lg:mb-0 flex items-center">
